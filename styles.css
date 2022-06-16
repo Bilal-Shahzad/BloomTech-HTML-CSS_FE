@@ -10,8 +10,10 @@ section {
 
 h1 {
     color: #1b212c;
-}
+    font-size: 32px;
+    font-family: 'Lato', sans-serif;}
 
 p {
     color: #5e636b;
-}
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;}

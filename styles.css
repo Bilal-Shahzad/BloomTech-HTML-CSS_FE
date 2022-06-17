@@ -4,6 +4,12 @@ main {
     background-color: #d7e3fa;
 }
 
+.card {
+    width: 400px;
+    background-color: #ffffff;
+    padding: 32px;
+}
+
 section {
     background-color: #ffffff;
 }
@@ -17,3 +23,12 @@ p {
     color: #5e636b;
     font-size: 20px;
     font-family: 'Lato', sans-serif;}
+
+img {
+    width: 140px;
+    height: 140px;
+}
+
+.links {
+
+}

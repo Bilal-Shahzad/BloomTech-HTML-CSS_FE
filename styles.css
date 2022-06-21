@@ -2,6 +2,9 @@
 
 main {
     background-color: #d7e3fa;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
 }
 
 .card {
@@ -11,7 +14,6 @@ main {
     border-radius: 20px;
     margin: 32px;
     text-align: center;
-    margin: auto;
 }
 
 section {
@@ -23,7 +25,6 @@ h1 {
     font-size: 32px;
     font-family: 'Lato', sans-serif;
     margin-bottom: 0px;
-    border: 1px solid red;
   
 }
 
@@ -48,6 +49,5 @@ img {
 
 a {
     margin: 8px;
-    border: 1px solid red;
    
 }
